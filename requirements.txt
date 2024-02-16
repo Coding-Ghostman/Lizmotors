@@ -1,0 +1,5 @@
+yfinance
+google
+beautifulsoup4
+langchain
+selenium
