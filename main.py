@@ -93,7 +93,7 @@ def save_to_csv(filename):
 
 
 def scarape_financial_data(filename):
-    ticker = "GOOGL"  # Change this to the Canoo ticker symbol
+    ticker = "GOEV"  # Change this to the Canoo ticker symbol
     company = yf.Ticker(ticker)
     financial_data = company.info
 
